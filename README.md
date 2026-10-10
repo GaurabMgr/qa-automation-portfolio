@@ -1,2 +1,8 @@
-# qa-automation-portfolio
-Manual and automated QA portfolio: test plan, test cases, bug reports, API and UI tests.
+QA Automation Portfolio
+Manual and automated testing of SauceDemo (UI) and Restful-Booker (API).
+
+Planned folders
+manual/ - test plan, test cases, bug reports
+api/ - Postman collection, pytest API tests
+ui/ - Playwright UI tests
+Status: In progress, built over 30 days.
